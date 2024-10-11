@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "322461122649",
+    "project_id": "frd-realtime-database",
+    "storage_bucket": "frd-realtime-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322461122649:android:4e5851c4331ea1887a3148",
+        "android_client_info": {
+          "package_name": "com.example.crud_frd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW_75CO8iBa80o-cmdmz6_SKwxu-DSD-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322461122649:android:a87d1f925587a4877a3148",
+        "android_client_info": {
+          "package_name": "com.example.frd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW_75CO8iBa80o-cmdmz6_SKwxu-DSD-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
